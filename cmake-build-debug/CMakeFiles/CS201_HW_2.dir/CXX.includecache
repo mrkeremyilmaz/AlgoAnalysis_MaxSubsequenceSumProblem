@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Bilkent/2017-2018_Fall_Courses/CS201/HW_Assignments/Fall_Homework2/CS201_HW_2/AlgorithmAnalysis.cpp
+vector
+-
+ctime
+-
+cstdlib
+-
+iostream
+-
+cmath
+-
+
+D:/Bilkent/2017-2018_Fall_Courses/CS201/HW_Assignments/Fall_Homework2/CS201_HW_2/main.cpp
+cmath
+-
+cstdlib
+-
+ctime
+-
+iostream
+-
+vector
+-
+
