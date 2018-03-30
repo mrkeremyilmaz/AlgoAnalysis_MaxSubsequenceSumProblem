@@ -3,4 +3,3 @@ Algorithm analysis homework for 2017-2018 Fall, CS201.
 
 Class: CS201 <br>
 Subject: Algorithm Analysis over Maximum Subsequence Sum Problem <br>
-Due date: 30.11.17 23.59 <br>
